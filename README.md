@@ -16,7 +16,7 @@
 </div>
 <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/87P1k198/687474703a2f2f6f70656e736f757263652e6f72672f74726164656d61726b732f6f70656e736f757263652f4f53492d4170.png' align="right" border='0' alt='687474703a2f2f6f70656e736f757263652e6f72672f74726164656d61726b732f6f70656e736f757263652f4f53492d4170'/></a>
 
-The class is licensed under the <a href="https://opensource.org/license/mit/">MIT License</a>.:
+The class is licensed under the <a href="https://opensource.org/license/mit/">MIT License</a>:
 
 Copyright © 2023-2025 <a href="https://github.com/Kelkhaun">Shilov Ilya</a>.
 
