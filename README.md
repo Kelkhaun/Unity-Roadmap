@@ -14,7 +14,7 @@
 ### 🚦 Wrap Up
 </div>
 If you think any of the roadmap can be improved, please do open a PR with any updates and submit any issues. Also, I will continue to improve this, so you might want to watch/star this repository to revisit.
-Any questions you can send to my <a href="https://t.me/+GRwMQo4dWPdmOTMy">Telegram channel</a>:
+Any questions you can send to my <a href="https://t.me/+GRwMQo4dWPdmOTMy">Telegram channel Shaggy Developer</a>:
 </div> 
 
 
