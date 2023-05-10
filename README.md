@@ -14,8 +14,11 @@ The purpose of these roadmaps is to give you an idea about the landscape and to 
 		
 <h3 align="center">Note to Beginners</h3>
 These roadmaps cover everything that is there to learn for the paths listed below. Don't feel overwhelmed, you don't need to learn it all in the beginning if you are just getting started.
+		
+		<br>
+		<br>
 </div> 
-  <br>
+
 ![RoadMap drawio](https://github.com/Kelkhaun/Unity-Roadmap/assets/80789057/7aeb1ee3-1f53-4619-88a7-83cdd12919cd)
 
 
