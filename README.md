@@ -14,7 +14,7 @@
 
 ### License
 </div>
-<img src="https://postimg.cc/87P1k198" title="angular" width="40" height="40"/>&nbsp;
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/kgWDcGy5/687474703a2f2f6f70656e736f757263652e6f72672f74726164656d61726b732f6f70656e736f757263652f4f53492d4170.png' border='0' alt='687474703a2f2f6f70656e736f757263652e6f72672f74726164656d61726b732f6f70656e736f757263652f4f53492d4170'/></a>
 
 The class is licensed under the MIT License:
 
