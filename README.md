@@ -10,7 +10,7 @@
 
 
 <div id="header" align="center">
-	<h1>🎮 Game Developer Roadmap 🎮</h1>
+
 </div>
   
 The class is licensed under the MIT License:
