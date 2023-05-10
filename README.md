@@ -4,7 +4,8 @@
 	<h1>🎮 Game Developer Roadmap 2023🎮</h1>
 </div>
   
-![RoadMap drawio](https://github.com/Kelkhaun/Unity-Roadmap/assets/80789057/423ea8ab-adbe-4770-9231-3f1f6061068e)
+![RoadMap drawio](https://github.com/Kelkhaun/Unity-Roadmap/assets/80789057/7aeb1ee3-1f53-4619-88a7-83cdd12919cd)
+
 
 </div>
 
