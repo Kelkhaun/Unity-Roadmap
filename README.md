@@ -10,8 +10,9 @@
 </div>
 
 
-<div id="header" align="center">
+---
 
+### Languages and tools
 </div>
 
 <img src="https://ibb.co/LnykX07" title="angular" width="40" height="40"/>&nbsp;
