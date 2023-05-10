@@ -14,8 +14,7 @@
 
 ### License
 </div>
-
-<img src="https://ibb.co/LnykX07" title="angular" width="40" height="40"/>&nbsp;
+<img src="https://postimg.cc/87P1k198" title="angular" width="40" height="40"/>&nbsp;
 
 The class is licensed under the MIT License:
 
